@@ -45,8 +45,8 @@
 
 ### Clone & Install
 ```bash
-git clone https://github.com/vasilev17/aisummerize.git
-cd aisummerize
+git clone https://github.com/vasilev17/ai-summerize.git
+cd ai-summerize
 npm install
 ```
 

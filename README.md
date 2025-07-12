@@ -52,5 +52,5 @@ npm install
 
 ---
 ## 🌐 Live Deployment
-The web app is fully deployed and accessible here: **<https://aisummerizing.netlify.app/>**.  
-Feel free to explore and try summarizing your favorite articles!
+The web app is fully deployed and accessible here: **<https://aisummerizing.netlify.app/>**  
+☀️ Feel free to explore and try summerizing your favorite articles!
